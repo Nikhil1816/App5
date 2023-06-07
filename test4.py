@@ -52,7 +52,7 @@ for i in df6.index:
 src="COKB"
 dest="BLRB"
 src1="LUHB"
-dest1="JAIB"
+dest1="BHOB"
 src2="LUHB"
 dest2="IXCB"
 origin_lat0=(float)(df6[df6['Branches']==src].lat)
