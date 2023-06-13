@@ -49,8 +49,8 @@ def helper(x):
 my_set=set([])
 for i in df6.index:
     my_set.add(df6['Branches'][i]) 
-src="CCUB"
-dest="BLRB"
+src="GAUB"
+dest="RPRB"
 src1="LUHB"
 dest1="BHOB"
 src2="LUHB"
