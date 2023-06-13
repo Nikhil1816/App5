@@ -51,7 +51,7 @@ for i in df6.index:
     my_set.add(df6['Branches'][i]) 
 src="GAUB"
 dest="RPRB"
-src1="LUHB"
+src1="IXCB"
 dest1="BHOB"
 src2="LUHB"
 dest2="IXCB"
