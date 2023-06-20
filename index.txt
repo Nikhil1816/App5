@@ -1,2 +1,2 @@
 i want to add it and merge it
-add stash
+add stashed it.
